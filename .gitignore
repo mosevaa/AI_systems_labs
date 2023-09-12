@@ -182,3 +182,9 @@ fabric.properties
 
 # idea folder, uncomment if you don't need it
 # .idea
+/.idea/vcs.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/modules.xml
+/.idea/misc.xml
+/.idea/lab1.iml
+/.idea/.gitignore
